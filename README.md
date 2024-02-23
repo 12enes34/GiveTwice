@@ -20,7 +20,7 @@ Projeyi kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
 ## Katkıda Bulunma
 *Geliştirme:* Proje açık kaynaklıdır. Eğer ilgileniyorsanız, projeye katkıda bulunmak için GitHub sayfamızı ziyaret edebilirsiniz: GiveTwice GitHub Repository
 *Geribildirim:* Platformu geliştirmemize yardımcı olmak için geri bildirimlerinizi bizimle paylaşın. Olumlu veya olumsuz her türlü geri bildirim değerlidir.
-##İletişim
+#İletişim
 *E-posta:*
 enes12_34@hotmail.com
 onurdemiir_0@hotmail.com
